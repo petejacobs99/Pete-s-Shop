@@ -31,8 +31,10 @@ const Item = require('../models/item');
     {name: 'Iron Plate Legs', imageUrl: 'https://oldschool.runescape.wiki/images/thumb/Iron_platelegs_detail.png/90px-Iron_platelegs_detail.png?e2837', category: categories[2], price: 200},
     {name: 'Steel Plate Legs', imageUrl: 'https://oldschool.runescape.wiki/images/thumb/Steel_platelegs_detail.png/90px-Steel_platelegs_detail.png?f7676', category: categories[2], price: 300},
     {name: 'Rune Plate Legs', imageUrl: 'https://oldschool.runescape.wiki/images/thumb/Rune_platelegs_detail.png/90px-Rune_platelegs_detail.png?279d3', category: categories[2], price: 400},
-
-    
+    {name: 'Bronze Boots', imageUrl: 'https://oldschool.runescape.wiki/images/thumb/Bronze_boots_detail.png/140px-Bronze_boots_detail.png?1c991', category: categories[3], price: 50},
+    {name: 'Iron Boots', imageUrl: 'https://oldschool.runescape.wiki/images/thumb/Iron_boots_detail.png/140px-Iron_boots_detail.png?6138c', category: categories[3], price: 150},
+    {name: 'Steel Boots', imageUrl: 'https://oldschool.runescape.wiki/images/thumb/Steel_boots_detail.png/140px-Steel_boots_detail.png?79e3c', category: categories[3], price: 250},
+    {name: 'Rune Boots', imageUrl: 'https://oldschool.runescape.wiki/images/thumb/Rune_boots_detail.png/140px-Rune_boots_detail.png?d576d', category: categories[3], price: 450},
 
 
   ]);
